@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 faker = "*"
 flask = "*"
+openpyxl = "*"
+pandas = "*"
 
 [dev-packages]
 ipython ="*"
